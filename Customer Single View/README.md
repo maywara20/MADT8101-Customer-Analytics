@@ -21,4 +21,5 @@ Percentage of Customer by Customers life stage
 Membership
 No. of Customer: 3,439
 
-![image](https://github.com/maywara20/MADT8101-Customer-Analytics/assets/143488145/21053648-faed-423d-8c31-d3c388e28042)
+![image](https://github.com/maywara20/MADT8101-Customer-Analytics/assets/143488145/51b64648-cd3c-432b-b70f-5e88a54613ab)
+
